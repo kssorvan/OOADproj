@@ -1,0 +1,138 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 6AA4-B9A4
+
+ Directory of D:\OOADProject-main\OOADProject-main
+
+28-Mar-25  11:00 PM    <DIR>          .
+28-Mar-25  11:00 PM    <DIR>          ..
+26-Nov-24  01:19 PM               238 DBConnectionFormat.json
+26-Nov-24  01:19 PM    <DIR>          Forms
+26-Nov-24  01:19 PM    <DIR>          Models
+26-Nov-24  01:19 PM             1,406 OOADPRO.csproj
+26-Nov-24  01:19 PM             1,093 OOADPRO.sln
+26-Nov-24  01:19 PM             1,361 Program.cs
+26-Nov-24  01:19 PM    <DIR>          Properties
+26-Nov-24  01:19 PM                 9 README.md
+28-Mar-25  11:00 PM                 0 tree.txt
+26-Nov-24  01:19 PM    <DIR>          Utilities
+               6 File(s)          4,107 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Forms
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM    <DIR>          AdminDisplayForm
+26-Nov-24  01:19 PM             2,333 AdminForm.cs
+26-Nov-24  01:19 PM            10,934 AdminForm.Designer.cs
+26-Nov-24  01:19 PM            29,861 AdminForm.resx
+26-Nov-24  01:19 PM    <DIR>          CashierDisplayForm
+26-Nov-24  01:19 PM             1,888 CashierForm.cs
+26-Nov-24  01:19 PM             7,951 CashierForm.Designer.cs
+26-Nov-24  01:19 PM            26,293 CashierForm.resx
+26-Nov-24  01:19 PM             3,981 DBConnectionForm.cs
+26-Nov-24  01:19 PM            10,037 DBConnectionForm.Designer.cs
+26-Nov-24  01:19 PM            16,917 DBConnectionForm.resx
+26-Nov-24  01:19 PM             1,206 LoadingForm.cs
+26-Nov-24  01:19 PM             3,698 LoadingForm.Designer.cs
+26-Nov-24  01:19 PM            25,059 LoadingForm.resx
+26-Nov-24  01:19 PM             2,802 LoginForm.cs
+26-Nov-24  01:19 PM             8,690 LoginForm.Designer.cs
+26-Nov-24  01:19 PM            21,541 LoginForm.resx
+              15 File(s)        173,191 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Forms\AdminDisplayForm
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM             4,358 CategoryAddForm.cs
+26-Nov-24  01:19 PM             6,399 CategoryAddForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 CategoryAddForm.resx
+26-Nov-24  01:19 PM             2,718 CategoryForm.cs
+26-Nov-24  01:19 PM             7,453 CategoryForm.Designer.cs
+26-Nov-24  01:19 PM             9,102 CategoryForm.resx
+26-Nov-24  01:19 PM             6,371 DashboardForm.cs
+26-Nov-24  01:19 PM            12,631 DashboardForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 DashboardForm.resx
+26-Nov-24  01:19 PM               405 OverviewForm.cs
+26-Nov-24  01:19 PM             1,962 OverviewForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 OverviewForm.resx
+26-Nov-24  01:19 PM             8,844 ProductsAddForm.cs
+26-Nov-24  01:19 PM            10,778 ProductsAddForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 ProductsAddForm.resx
+26-Nov-24  01:19 PM             6,218 ProductsForm.cs
+26-Nov-24  01:19 PM             2,752 ProductsForm.Designer.cs
+26-Nov-24  01:19 PM             7,113 ProductsForm.resx
+26-Nov-24  01:19 PM             2,067 SaleReportForm.cs
+26-Nov-24  01:19 PM             4,286 SaleReportForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 SaleReportForm.resx
+26-Nov-24  01:19 PM             9,004 StaffAddForm.cs
+26-Nov-24  01:19 PM            12,668 StaffAddForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 StaffAddForm.resx
+26-Nov-24  01:19 PM             5,402 StaffForm.cs
+26-Nov-24  01:19 PM             2,729 StaffForm.Designer.cs
+26-Nov-24  01:19 PM             7,131 StaffForm.resx
+26-Nov-24  01:19 PM             7,807 UserAddForm.cs
+26-Nov-24  01:19 PM            10,486 UserAddForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 UserAddForm.resx
+26-Nov-24  01:19 PM             5,519 UserForm.cs
+26-Nov-24  01:19 PM             2,645 UserForm.Designer.cs
+26-Nov-24  01:19 PM             7,187 UserForm.resx
+              33 File(s)        203,438 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Forms\CashierDisplayForm
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM             4,216 CashierProductForm.cs
+26-Nov-24  01:19 PM             2,911 CashierProductForm.Designer.cs
+26-Nov-24  01:19 PM             5,629 CashierProductForm.resx
+26-Nov-24  01:19 PM             9,718 OrderDetailAddForm.cs
+26-Nov-24  01:19 PM             7,345 OrderDetailAddForm.Designer.cs
+26-Nov-24  01:19 PM             6,726 OrderDetailAddForm.resx
+26-Nov-24  01:19 PM             1,485 OrderForm.cs
+26-Nov-24  01:19 PM             6,446 OrderForm.Designer.cs
+26-Nov-24  01:19 PM             7,446 OrderForm.resx
+               9 File(s)         51,922 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Models
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM               196 Category.cs
+26-Nov-24  01:19 PM               307 Customer.cs
+26-Nov-24  01:19 PM               138 Login.cs
+26-Nov-24  01:19 PM               224 Order.cs
+26-Nov-24  01:19 PM               308 OrderDetail.cs
+26-Nov-24  01:19 PM               491 Products.cs
+26-Nov-24  01:19 PM               443 Staff.cs
+26-Nov-24  01:19 PM               210 User.cs
+               8 File(s)          2,317 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Properties
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM             2,780 Resources.Designer.cs
+26-Nov-24  01:19 PM             5,698 Resources.resx
+               2 File(s)          8,478 bytes
+
+ Directory of D:\OOADProject-main\OOADProject-main\Utilities
+
+26-Nov-24  01:19 PM    <DIR>          .
+26-Nov-24  01:19 PM    <DIR>          ..
+26-Nov-24  01:19 PM             4,491 CategoryFunc.cs
+26-Nov-24  01:19 PM               475 ConvertImageClass.cs
+26-Nov-24  01:19 PM             2,675 DashboardFunc.cs
+26-Nov-24  01:19 PM             1,643 Helper.cs
+26-Nov-24  01:19 PM            11,075 IDataRecordExtension.cs
+26-Nov-24  01:19 PM             1,199 LoginFunc.cs
+26-Nov-24  01:19 PM             2,332 OrderFunc.cs
+26-Nov-24  01:19 PM             3,895 ProductFunc.cs
+26-Nov-24  01:19 PM             2,530 SaleReportfunc.cs
+26-Nov-24  01:19 PM             5,143 StaffFunc.cs
+26-Nov-24  01:19 PM             3,272 UserFunc.cs
+              11 File(s)         38,730 bytes
+
+     Total Files Listed:
+              84 File(s)        482,183 bytes
+              20 Dir(s)  139,513,237,504 bytes free
